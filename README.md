@@ -10,7 +10,6 @@
 - ✉️ You can contact me at: [mrtheebanda.mail@gmail.com](mailto:mrtheebanda.mail@gmail.com)  
 - 🧠 Currently learning: Deepening framework knowledge and full-stack proficiency  
 - 🕒 Timezone: **UTC+7 (Thailand Time)**  
-- ☕ Like my work? [Buy me a coffee](https://www.buymeacoffee.com/yourname)
 
 ---
 
