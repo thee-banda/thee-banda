@@ -1,7 +1,7 @@
 <h1 align="center">Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35" /> I'm THEE</h1>
 
 <p align="center"><b>Junior Web Developer | Passionate about Web, UI/UX & Creative Code</b></p>
-<p align="center"><b><a href="https://thee-banda.github.io/portfolio/">View MyPortfolio</a></b></p>
+<p align="center"><b><a href="https://thee-banda.github.io/portfolio/">View MyPortfolio Page</a></b></p>
 ---
 
 ### 🌍 About Me
